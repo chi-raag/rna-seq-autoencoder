@@ -15,4 +15,6 @@ To add this environment to a jupyter kernel:
 
 Open `RNA_seq_ae.ipynb` in a jupyter notebook, and follow the instructions
 
+## Data
 
+Data can be uploaded to the data folder in `.mtx` format. The Mak datasets need to be unzipped before analysis.
